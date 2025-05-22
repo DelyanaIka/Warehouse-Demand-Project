@@ -15,6 +15,22 @@ Dataset yang digunakan mencakup kolom-kolom seperti:
 - Event (`Event`) dan pengaruhnya
 - Koordinat Lokasi
 
+## Fitur
+-
+
+## 🛠 Tools
+- Github (Media Publikasi dan Progress)
+- Python (Bahasa Pemrograman)
+- Streamlit (Pengembangan Website/Aplikasi)
+- Library:
+  1. Pandas
+  2. Scikit-Learn
+  3. Matplotlib
+  4. Numpy
+  5. Datetime
+  6. Joblib
+  7. Pickle
+
 ## ⚙️ Cara Instalasi
 
 1. **Clone repositori ini**
