@@ -44,5 +44,5 @@ Dataset yang digunakan mencakup kolom-kolom seperti:
 
 1. **Clone repositori ini**
 ```bash
-git clone https://github.com/asyzyni/Warehouse-Demand-Project.git
+git clone https://github.com/DelyanaIka/Warehouse-Demand-Project.git
 cd Warehourse-Demand-Project
