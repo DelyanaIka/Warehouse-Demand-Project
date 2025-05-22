@@ -16,7 +16,14 @@ Dataset yang digunakan mencakup kolom-kolom seperti:
 - Koordinat Lokasi
 
 ## Fitur
--
+- 💼 Dashboard Utama
+- 🔍 Prediksi Permintaan
+- 📈 Analisis Historis & Tren
+- 📆 Kalender Event & Musim
+- 📍 Analisis Lokasi
+- 🧠 Model Machine Learning
+- 📂 Manajemen Dataset
+- 📊 Laporan & Ekspor Data
 
 ## 🛠 Tools
 - Github (Media Publikasi dan Progress)
@@ -30,6 +37,8 @@ Dataset yang digunakan mencakup kolom-kolom seperti:
   5. Datetime
   6. Joblib
   7. Pickle
+ 
+# Cara Kerja Website/Aplikasi
 
 ## ⚙️ Cara Instalasi
 
