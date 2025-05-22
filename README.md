@@ -1,3 +1,4 @@
+
 # 📦 Proyek Prediksi Permintaan Gudang
 
 Proyek ini bertujuan untuk memprediksi permintaan gudang berdasarkan data historis, event musiman, dan informasi lokasi dengan bantuan machine learning. Dataset mencakup variabel seperti musim, permintaan masa lalu, tren penjualan, event, dan banyak lagi.
